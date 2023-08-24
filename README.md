@@ -1,6 +1,6 @@
 # Frontend Mentor - Base Apparel coming soon page solution
 
-This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/Abrham007/article-preview-component-master.git)
-- Live Site URL: [live site URL](https://abrham007.github.io/article-preview-component-master/)
+- Solution URL: [solution URL](https://github.com/Abrham007/base-apparel-coming-soon-master.git)
+- Live Site URL: [live site URL](https://abrham007.github.io/base-apparel-coming-soon-master/)
 
 ## My process
 

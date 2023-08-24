@@ -16,7 +16,8 @@ body {
   justify-content: center;
   padding-left: 10vw;
   background: url(../images/hero-desktop.jpg) no-repeat 100%,
-    url(../images/bg-pattern-desktop.svg);
+    url(../images/bg-pattern-desktop.svg),
+    linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
   color: var(--pink-color);
 }
 main {
