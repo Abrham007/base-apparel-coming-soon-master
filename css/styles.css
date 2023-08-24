@@ -51,12 +51,6 @@ input:invalid {
   outline-color: hsl(0, 93%, 68%);
   background: url(../images/icon-error.svg) no-repeat 73% 50%;
 }
-input:invalid::after {
-  content: "tisadf ";
-  color: hsl(0, 93%, 68%);
-  position: relative;
-  top: 50px;
-}
 ::placeholder {
   color: var(--pink-color);
 }
